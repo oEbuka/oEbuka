@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oEbuka
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML,CSS & JS.
-- 💞️ I’m looking to collaborate on creating a website.
+- 👀 I’m a web developer.
+- 🌱 Skilled in HTML,CSS,JS --REACT soon.
+- 💞️ I’m looking to collaborate on creating responsive websites .
 - 📫 How to reach me at ebukaobiora10@gmail.com
 
 <!---
