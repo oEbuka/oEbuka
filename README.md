@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oEbuka
 - 👀 I’m a web developer.
-- 🌱 Skilled in HTML,CSS,JS --REACT soon.
+- 🌱 Skilled in HTML,CSS,JS,REACT and Flask.
 - 💞️ I’m looking to collaborate on creating responsive websites .
 - 📫 How to reach me at ebukaobiora10@gmail.com
 
