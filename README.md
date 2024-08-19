@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oEbuka
-- 👀 I’m a web developer.
+- 👀 I’m a Software Engineer.
 - 🌱 Skilled in NODE JS,EXPRESS JS, MONGO DB ,REACT and FLASK.
 - 💞️ I’m looking to collaborate on creating responsive websites .
 - 📫 How to reach me at ebukaobiora10@gmail.com
